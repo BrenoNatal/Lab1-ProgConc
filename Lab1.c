@@ -157,6 +157,7 @@ int main()
 
     exibirVetor(tamanho);
     free(vetor);
-
+    free(vetorTeste);
+    
     return 0;
 }
